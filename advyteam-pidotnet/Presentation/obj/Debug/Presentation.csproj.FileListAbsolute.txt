@@ -1,0 +1,410 @@
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\ApplicationInsights.config
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\csc.exe
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\vbc.exe
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Presentation.dll.config
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Presentation.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Presentation.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Domain.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\EntityFramework.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\MySql.Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\MySql.Data.Entity.EF6.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Owin.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\ServicePattern.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Services.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Helpers.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Http.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Mvc.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Optimization.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Razor.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.WebPages.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\WebGrease.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Domain.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\ServicePattern.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Services.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\EntityFramework.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\MySql.Data.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\MySql.Data.Entity.EF6.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Helpers.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Mvc.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Optimization.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Razor.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.WebPages.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Http.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\obj\Debug\Presentation.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\obj\Debug\Presentation.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Net.Http.Extensions.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Net.Http.Primitives.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Presentation\bin\Data.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\ApplicationInsights.config
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\csc.exe
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\vbc.exe
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Presentation.dll.config
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Presentation.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Presentation.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Domain.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\MySql.Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\MySql.Data.Entity.EF6.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Owin.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\ServicePattern.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Services.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Net.Http.Extensions.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Net.Http.Primitives.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Helpers.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Http.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Mvc.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Optimization.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Razor.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\WebGrease.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Domain.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\ServicePattern.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Services.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\EntityFramework.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\MySql.Data.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\MySql.Data.Entity.EF6.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Helpers.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Mvc.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Optimization.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Razor.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Http.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\bin\Data.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\obj\Debug\Presentation.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Presentation\obj\Debug\Presentation.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\ApplicationInsights.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Presentation.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Presentation.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Presentation.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Domain.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.Entity.EF6.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Owin.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\ServicePattern.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Services.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Extensions.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Primitives.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Domain.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Domain.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\ServicePattern.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\ServicePattern.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Services.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Services.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.Entity.EF6.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Data.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\bin\Data.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\ApplicationInsights.config
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\csc.exe
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\vbc.exe
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Presentation.dll.config
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Presentation.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Presentation.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Antlr3.Runtime.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Domain.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.Entity.EF6.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Newtonsoft.Json.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Owin.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\ServicePattern.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Services.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Extensions.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Formatting.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Primitives.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Helpers.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.WebHost.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Mvc.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Optimization.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Razor.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\WebGrease.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Domain.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\ServicePattern.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Services.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.Entity.EF6.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Newtonsoft.Json.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Helpers.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Mvc.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Optimization.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Razor.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\System.Web.Http.WebHost.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\bin\Data.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Presentation\obj\Debug\Presentation.pdb

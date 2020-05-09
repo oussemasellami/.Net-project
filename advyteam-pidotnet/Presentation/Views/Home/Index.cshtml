@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+
+<script>
+    Highcharts.chart('container', {
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'Les competances les plus affectes'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                }
+            }
+        },
+        series: [{
+            name: 'Note',
+            colorByPoint: true,
+            data: [{
+                name: 'Python',
+                y: 61.41,
+                sliced: true,
+                selected: true
+            }, {
+                name: 'Java',
+                y: 11.84
+            }, {
+                name: 'C++',
+                y: 10.85
+            }, {
+                name: 'Symfony',
+                y: 4.67
+            }, {
+                name: 'Node js',
+                y: 4.18
+            }, {
+                name: 'React js',
+                y: 1.64
+            }, {
+                name: 'Jee',
+                y: 1.6
+            }, {
+                name: 'Spring boot',
+                y: 1.2
+            }, {
+                name: 'Angulars',
+                y: 2.61
+            }]
+        }]
+    });
+</script>
+
+<center> <a href="@Url.Action("index","skills")">Retour</a> </center>

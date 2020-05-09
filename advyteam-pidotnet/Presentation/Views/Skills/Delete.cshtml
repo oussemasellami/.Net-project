@@ -1,0 +1,24 @@
+﻿@model Data.skills
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2></h2>
+
+<h3>    Êtes-vous sûr de vouloir supprimer ceci?</h3>
+<div>
+   
+    <hr />
+  
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Retourner a l'affichage", "Index")
+        </div>
+    }
+</div>

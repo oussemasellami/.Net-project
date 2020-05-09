@@ -1,0 +1,102 @@
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Data.dll.config
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Data.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Domain.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\EntityFramework.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\MySql.Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Domain.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\EntityFramework.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\MySql.Data.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\obj\Debug\Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\obj\Debug\Data.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Data.dll.config
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Data.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Domain.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\EntityFramework.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\MySql.Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Domain.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\EntityFramework.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\MySql.Data.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\advyteam-pidotnet\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\oussema sellami\advyteam-pidotnet\Data\obj\Debug\Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\Data\obj\Debug\Data.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Data.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Data.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Domain.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Domain.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Domain.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.Migrations.v0.resources
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.Migrations.v01.resources
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Data.dll.config
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Data.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Domain.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Domain.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.Migrations.n.resources
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\Data\obj\Debug\Data.csproj.GenerateResource.Cache

@@ -1,0 +1,106 @@
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\ServicePattern.dll.config
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\MySql.Data.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\Data.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\MySql.Data.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\obj\Debug\ServicePattern.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\Domain.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\Domain.pdb
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CHAHI\onedrive\documents\visual studio 2015\Projects\AdvyteamPidev\ServicePattern\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.dll.config
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\Data.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.pdb
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\oussema sellami\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Data.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Data.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.pdb
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.dll.config
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\lenovo\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.dll.config
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Data.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\Domain.pdb
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\oussema sellami\Desktop\advyteam-pidotnet\ServicePattern\obj\Debug\ServicePattern.pdb
